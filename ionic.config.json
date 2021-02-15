@@ -1,0 +1,8 @@
+{
+  "name": "diet-helper",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "6f3a1e23"
+}
